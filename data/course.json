@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ]
+  ],
+  "legacy_uid": "7fb132a3-08a0-9493-cd7a-50b7f570289b",
+  "instructors": {
+    "content": [
+      "6640ead3-134a-1601-089e-a8ae3e5a604e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8d73a567-f99d-5905-c28d-c182081dbc0b",
+    "website": "15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011"
+  },
+  "course_title": "Global Markets, National Politics and the Competitive Advantage of Firms",
+  "course_description": "This course examines opportunities and risks firms face in today's global market. It provides conceptual tools for analyzing how governments and social institutions influence economic competition among firms embedded in different national settings. Public policies and institutions that shape competitive outcomes are examined through cases and analytical readings on different companies and industries operating in both developed and emerging markets.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.223",
+  "course_image_thumbnail": {
+    "content": "cbf9c76b-4cee-8c6a-6b85-b404a9bd5373",
+    "website": "15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Written Assignments"
+  ],
+  "site_uid": "f12258b5-499e-4bab-93c0-58f90d32c77c",
+  "site_short_id": "15.223-fall-2011",
+  "site_url_path": "courses/15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011",
+  "title": "Course Metadata"
+}
